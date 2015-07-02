@@ -9,4 +9,4 @@ I think I did a pretty good job for a first assignment  :)
 
 Result can be viewed <a target="_blank" href="http://bengudro.insomnia247.nl/code/acme/">here</a>.
 
-![acme](PSD/home.psd?raw=true "acme")
+![acme](/PSD/home.psd?raw=true "acme")
