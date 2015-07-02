@@ -44,7 +44,7 @@ body {
 	width: auto;
 }
 #mainNav ul {
-	padding: 5px 0 0 20px;
+	padding: 14px 0 0 20px;
 }
 #mainNav ul li {
 	list-style-type: none;
@@ -71,4 +71,13 @@ body {
 #content p {
 	font-size: 12px;
 	padding-bottom: 10px;
+}
+hr {
+	height: 2px;
+	background: #035458;
+	margin: 15px 0 8px;
+}
+#footer p {
+	font-size: 11px;
+	text-align: right;
 }
