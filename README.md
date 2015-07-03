@@ -10,5 +10,5 @@ I think I did a pretty good job for a first assignment  :)
 Result can be viewed <a target="_blank" href="http://bengudro.insomnia247.nl/code/acme/">here</a>.
 
 <a target="_blank" href="http://bengudro.insomnia247.nl/code/acme/">
-![An image of the .PSD provided](PSD/home.jpg?raw=true "An image of the .PSD provided")
+![An image of the .PSD provided](PSD/home.jpg "An image of the .PSD provided")
 </a>
